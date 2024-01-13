@@ -35,7 +35,7 @@ The intransitive hand game, usually played between two people, is completely pla
 
 ### 05. Hexa-Decimal Conversion
 
-![Number-System-Converter-1](https://1drv.ms/i/s!Ar__wVpcmh_Sum5xHpue3TgUDq_m?e=2JFRzm)
+![Number-System-Converter-1](<img width="960" alt="11" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/0ed27a0a-1cdc-41de-b132-015fe88d33d0">)
 
 
 
