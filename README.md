@@ -18,7 +18,7 @@ The intransitive hand game, usually played between two people, is completely pla
 
 ### 1. Welcome Screen
 
-![Number-System-Converter-1](https://1drv.ms/i/s!Ar__wVpcmh_SumUKtmRky5bdvI_G?e=TL7WeY)
+![Number-System-Converter-1]("C:\Users\divya\OneDrive\Desktop\11.png")
 
 ### 1. Enter the no.of moves you wanna paly
 
