@@ -18,8 +18,8 @@ The intransitive hand game, usually played between two people, is completely pla
 
 ### 1. Welcome Screen
 
-![Number-System-Converter-1](<img width="960" alt="11" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/010d3443-3aa8-4099-bfb7-274760294976">
-)
+<img width="960" alt="11" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/010d3443-3aa8-4099-bfb7-274760294976">
+
 
 ### 1. Enter the no.of moves you wanna paly
 
