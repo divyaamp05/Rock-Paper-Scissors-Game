@@ -1,15 +1,15 @@
 # Rock-Paper-Scissors-Game
-User plays with the computer by giving inputs as 0,1,2.Made using C language
+User plays with the computer by giving inputs as 0,1,2 and 9.Made using C language
 ## Description
 The intransitive hand game, usually played between two people, is completely playable through my C Programming code. I used a random function for the computer move, which randomly selects an input to play against the user. The code is written in such a way that a user can play with the computer.
 
->_ In this program the user can give the following inputs:_
+### In this program the user can give the following inputs:_
 - 0 for rock
 - 1 for paper
 - 2 for scissors
 - 9 for exit
 
-### Requirements:_
+### Requirements:
 - A software (IDE) for reviewing the code
 - C/C++ compiler (Recommended: Dev C++ Compiler)
 - Command Prompt or Windows Powershell
@@ -36,7 +36,7 @@ The intransitive hand game, usually played between two people, is completely pla
 
 <img width="960" alt="35" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/0943c03f-d37d-4c16-af08-a15a6be32233">
 
-### 6. And the Winner is!
+### 6. And the Winner is !
 
 <img width="960" alt="36" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/086a7521-830e-4f36-bda5-563b6caa8db7">
 
