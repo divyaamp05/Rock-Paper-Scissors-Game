@@ -20,23 +20,23 @@ The intransitive hand game, usually played between two people, is completely pla
 
 <img width="960" alt="31" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/4818dbf2-3c22-40ea-b75f-56c611405911">
 
-### 2.Enter the no.of moves you wanna paly
+### 2.Enter the first move
 
 <img width="960" alt="32" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/c0f06876-b28d-4587-aacd-9dae4be1c5d7">
 
-### 3.Enter the first move
+### 3.Enter the second move
 
 <img width="960" alt="33" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/2ffca291-2f0a-427e-904c-d9d63f1da58b">
 
-### 4.Enter the second move
+### 4.Enter the third move
 
 <img width="960" alt="34" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/1f535146-640c-49d8-a18d-079d954101a8">
 
-### 5. Enter the third move
+### 5.Enter the last move
 
 <img width="960" alt="35" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/0943c03f-d37d-4c16-af08-a15a6be32233">
 
-### 6. The Final move
+### 6. And the Winner is!
 
 <img width="960" alt="36" src="https://github.com/divyaamp05/Rock-Paper-Scissors-Game/assets/136983111/086a7521-830e-4f36-bda5-563b6caa8db7">
 
