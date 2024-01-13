@@ -7,4 +7,4 @@ The intransitive hand game, usually played between two people, is completely pla
 0 for rock\
 1 for paper\
 2 for scissors\
-9 for exit\
+9 for exit
